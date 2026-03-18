@@ -1,0 +1,47 @@
+{
+  "name": "betternmtui",
+  "version": "0.2.0",
+  "description": "A terminal UI for NetworkManager built with React and OpenTUI",
+  "module": "src/index.tsx",
+  "type": "module",
+  "bin": {
+    "betternmtui": "bin/betternmtui.tsx"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "start": "bun run src/index.tsx",
+    "dev": "bun --watch run src/index.tsx",
+    "build": "bun build src/index.tsx --outdir=dist --target=bun"
+  },
+  "keywords": [
+    "networkmanager",
+    "nmcli",
+    "tui",
+    "terminal",
+    "wifi",
+    "network",
+    "cli"
+  ],
+  "license": "MIT",
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "os": [
+    "linux"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/react": "^19.2.14"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@opentui/core": "^0.1.88",
+    "@opentui/react": "^0.1.88",
+    "react": "^19.2.4"
+  }
+}
