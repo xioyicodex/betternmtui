@@ -2,6 +2,8 @@
 
 A modern terminal UI for NetworkManager, built with React and [OpenTUI](https://github.com/anthropics/opentui). Manage Wi-Fi, Ethernet, and network connections without leaving the terminal.
 
+![betternmtui demo](assets/demo.png)
+
 ## Features
 
 - **Connections** -- View, toggle, edit, delete, import/export saved connections
